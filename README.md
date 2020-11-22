@@ -1,5 +1,6 @@
 # React-practice
 The collection of small React programs
+What is the React? -- React is a JS library for building interface.
 
 
 /- 1 - A simple to-do-list program to practice ES6 spread operator in React as .jsx document. (ES6-spread-operator-practice.zip / spreadOperator.jsx)
